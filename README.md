@@ -1,4 +1,5 @@
 ## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=jamal474&icon=0&color=6)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shabbir-jamal-0620781a0/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lamajribbahs) 
 
 # 💻 Tech Stack:
@@ -6,12 +7,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jamal474&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamal474&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal474&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal474&langs_count=15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jamal474&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=jamal474&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
